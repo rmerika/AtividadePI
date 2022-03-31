@@ -1,0 +1,33 @@
+.pai_1 {
+    background-color: #29e4b5;
+    height: 440px;
+    height: fixed;
+    width: 440px;
+    width: fixed;
+    border-radius: 3px solid #000000;
+}
+
+.filho {
+    background-color: #a9ee41;
+    height: 330px;
+    width: 400px;
+}
+
+p {
+    color: #080505;
+    background-color: #fbff00;
+    font-size: 40px;
+    font-weight:lighter;
+    font-family:'Helvetica', 'Times New Roman', 'Arial', 'Georgia';
+}
+
+.pai_2 {
+    background-color: #a670fe;
+    height: 25vh; 
+    width: 50%;
+}
+.sun {
+    background-color: #ecf020; 
+    width: 10vh; 
+    height: 50%;  
+}
